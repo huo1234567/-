@@ -67,7 +67,7 @@ Top-K B：堆的大小固定为 k，空间复杂度 O(k)（常数级，仅受 K 
 - 图 1：建索引耗时随文档数变化趋势
 ![图](https://raw.githubusercontent.com/huo1234567/-/refs/heads/main/report_images/%E5%BB%BA%E7%AB%8B%E7%B4%A2%E5%BC%95%E8%80%97%E6%97%B6%E6%8A%98%E7%BA%BF%E5%9B%BE.png)
 - 图 2：100 次查询总耗时随文档数变化趋势
-![100次查询耗时折线图](https://raw.githubusercontent.com/huo1234567/-/main/report_images/find.png)
+![100次查询耗时折线图](https://cdn.jsdelivr.net/gh/huo1234567/-@main/report_images/find.png)
 
 ## 六、结论
 （不少于 200 字）
