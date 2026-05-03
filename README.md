@@ -15,7 +15,7 @@ os（Python 标准库）
 heapq（Python 标准库）
 
 ## 运行方式（一条命令能启动系统）
-cmd输入:python gui_system.py
+cmd输入:python main.py
 
 ## 完成情况
 - [X] 必做功能 1：文档读取与切词
